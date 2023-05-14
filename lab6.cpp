@@ -28,7 +28,7 @@ int main() {
         cout << "Roots are real and same." << endl;
 		//second 1: change 29
         cout << "Root 1 = Root 2 = " << root1 << endl;
-		//second 2:
+		//second 2: change 31
     } else {
 		//second 3:
         cout << "Roots are complex and different." << endl;
