@@ -30,7 +30,7 @@ int main() {
         cout << "Root 1 = Root 2 = " << root1 << endl;
 		//second 2: change 31
     } else {
-		//second 3:
+		//second 3: change 33
         cout << "Roots are complex and different." << endl;
 		//second 4:
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
