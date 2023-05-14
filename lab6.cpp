@@ -24,6 +24,7 @@ int main() {
 		//main 4: change 24
     } else if (discriminant == 0) {
         root1 = -b / (2 * a);
+		//main 5: change 27
 	/////////////////second area/////////////
         cout << "Roots are real and same." << endl;
 		//second 1:
