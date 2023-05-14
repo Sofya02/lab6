@@ -17,7 +17,7 @@ int main() {
 		//main 2: change 17
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
-		//main 3:
+		//main 3: change 20
         cout << "Roots are real and different." << endl;
         cout << "Root 1 = " << root1 << endl;
         cout << "Root 2 = " << root2 << endl;
