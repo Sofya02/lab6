@@ -14,7 +14,7 @@ int main() {
 
 
     if (discriminant > 0) {
-		//main 2:
+		//main 2: change 17
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
 		//main 3:
