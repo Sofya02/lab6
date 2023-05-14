@@ -9,7 +9,7 @@ int main() {
     double a, b, c, discriminant, root1, root2;
     cout << "Enter coefficients a, b and c: ";
     cin >> a >> b >> c;
-	//main 1:
+	//main 1: change 12
     discriminant = b * b - 4 * a * c;
 
 
