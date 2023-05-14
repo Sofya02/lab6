@@ -32,7 +32,7 @@ int main() {
     } else {
 		//second 3: change 33
         cout << "Roots are complex and different." << endl;
-		//second 4:
+		//second 4: change 35
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
 		//second 5:
         cout << "Root 2 = (-" << b << " - i" << sqrt(-discriminant) << ") / " << 2*a << endl;
