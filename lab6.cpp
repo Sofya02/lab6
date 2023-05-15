@@ -64,7 +64,7 @@ char op;
         case '/':
             cout << num1 / num2;
             break;
-	//third 5:
+	//third 5: change 67
         default:
             cout << "Error! operator is not correct";
             break;
