@@ -11,7 +11,7 @@ int main() {
     cin >> a >> b >> c;
 	//main 1: change 12
     discriminant = b * b - 4 * a * c;
-
+//main 6: change 14
 
     if (discriminant =9) 
 		//main 2: change 17
