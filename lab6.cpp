@@ -69,6 +69,6 @@ char op;
             cout << "Error! operator is not correct";
             break;
     }
-
+//third 6: change 72
     return 0;
 }
