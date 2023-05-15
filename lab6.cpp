@@ -3,7 +3,7 @@
 
 using namespace std;
 
-
+//main 7: change 6
 int main() {
 	/////////////////main area/////////////
     double a, b, c, discriminant, root1, root2;
