@@ -36,7 +36,7 @@ int main() {
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
 		//second 5: change 37
         cout << "Root 2 = (-" << b << " - i" << sqrt(-discriminant) << ") / " << 2*a << endl;
-    }
+    }//second 6: change 39
 
 
 char op;
